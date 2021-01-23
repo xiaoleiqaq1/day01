@@ -7,6 +7,7 @@ import java.io.ObjectOutputStream;
 
 public class Test7 {
     public static void main(String[] args) throws Exception{
+        System.out.println("hello world");
         /*
         *  java.io.NotSerializableException: com.day16.Student
         *
